@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+proyecto sencillo de galeria de fotos, utilizando animaciones para cambiar el tamaño de las imagenes cuando se pasa el mouse por encima; aplicando notificaciones de toastify al clickear las imagenes simulando una descarga local y usando herramientas web para comprimir las imagenes para mejorar la carga de la app
+tambien use efectos de scroll para moverse a traves de la pagina, facilitando tambien al comienzo las secciones de la misma
